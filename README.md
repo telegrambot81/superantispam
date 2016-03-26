@@ -52,6 +52,8 @@ DBTeam
 
 @Mammothcode
 
+@FarsGeneral
+
 @napson
 
 @HackeD_o
@@ -60,16 +62,22 @@ DBTeam
 
 @black_hat_admin1
 
+-------------------
+
    Sudo :
 
 @black_hat_admin02 ( @SuperDeveloper )
 
 @black_hat_admin03 (off)
 
+-------------------
+
    chaneel :
    
    @BlackHatchannel
    
+-------------------
+
    shared Github To channel :
    
    @PluginLua
