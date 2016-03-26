@@ -256,7 +256,6 @@ function create_config( )
       "download_media",
       "spam",
       "spanish_lang",
-      "version",
       "italian_lang",
       "portuguese_lang",
       "arabic"
