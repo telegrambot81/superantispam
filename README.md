@@ -48,40 +48,41 @@ suport Group Index
 -----------------
    thanx :
 
-DBTeam
+[DBTeaM](https://telegram.me/DBTeam)
 
-@Mammothcode
 
-@FarsGeneral
+[Mammothcode](https://telegram.me/Mammothcode)
 
-@napson
 
-@HackeD_o
+[FarsGeneral](https://telegram.me/FarsGeneral)
 
-@error_log
 
-@black_hat_admin1
+[napson](https://telegram.me/napson)
+
+
+[mostafa-IP](https://telegram.me/HackeD_o)
+
+
+[Radya](https://telegram.me/error_log)
+
+
+[محمد فاکر](https://telegram.me/black_hat_admin1)
 
 -------------------
 
    Sudo :
 
-@black_hat_admin02 ( @SuperDeveloper )
+[س.مرتضی](https://telegram.me/black_hat_admin02) ([@SuperDeveloper] (https://telegram.me/SuperDeveloper))
 
-@black_hat_admin03 (off)
+
+[سد فاکر](https://telegram.me/black_hat_admin03) ([off] (https://telegram.me/off))
 
 -------------------
 
    chaneel :
    
-   @BlackHatchannel
+  [@BlackHatchannel](https://telegram.me/BlackHatchannel)
    
 -------------------
-
-   shared Github To channel :
-   
-   @PluginLua
-   
- ------------------
 
  :-D
