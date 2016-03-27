@@ -79,7 +79,7 @@ suport Group Index
 
 -------------------
 
-   chaneel :
+   Channel :
    
   [@BlackHatchannel](https://telegram.me/BlackHatchannel)
    
