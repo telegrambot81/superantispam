@@ -41,7 +41,11 @@ $ sudo stop telegram # To stop it
 ```
 
 -------------------------------------
+
+Suport IndexTG :
+
 [suport Group Index](https://telegram.me/joinchat/DRVuDAjDa98OGV4UMRuFkw)
+
 -----------------
    thanx :
 
