@@ -259,6 +259,13 @@ function create_config( )
       "italian_lang",
       "portuguese_lang",
       "arabic"
+      "calc"
+      "google"
+      "gps"
+      "leave_ban"
+      "left_grouo"
+      "linkpv"
+      "time"
      },
     sudo_users = {219508236},
     admin_users = {},
