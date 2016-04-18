@@ -58,7 +58,7 @@ Suport IndexTG :
 [FarsGeneral](https://telegram.me/FarsGeneral)
 
 
-<B>[napson]</B>(https://telegram.me/napson)
+<B>[napson](https://telegram.me/napson)</B>
 
 
 [Radya](https://telegram.me/error_log)
