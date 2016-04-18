@@ -58,10 +58,7 @@ Suport IndexTG :
 [FarsGeneral](https://telegram.me/FarsGeneral)
 
 
-[napson](https://telegram.me/napson)
-
-
-[mostafa-IP](https://telegram.me/HackeD_o)
+<B>[napson]</B>(https://telegram.me/napson)
 
 
 [Radya](https://telegram.me/error_log)
