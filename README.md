@@ -1,6 +1,6 @@
-IndexTG
+<B>IndexTG</B>
 
-A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
+<I>A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).</I>
 
 ==================
 
@@ -25,6 +25,11 @@ Then, you have to install a bot language like this:
 ```
 #install english_lang
 #lang en
+(Speakers English)
+---------------------
+#install persian_lang
+#lang fa
+(Speakers Persian)
 ```
 
 Enable more [`plugins`](https://github.com/yagop/Talibot/tree/supergroups/plugins)
@@ -41,13 +46,13 @@ $ sudo stop telegram # To stop it
 ```
 
 -------------------------------------
-<Font size="90">
+
 <B>Suport IndexTG :
 
 [suport Group Index](https://telegram.me/joinchat/DRVuDAjDa98OGV4UMRuFkw)</B>
-</Font>
+
 -----------------
-   thanx :
+  <I> thanx :</I>
 
 <B>[DBTeaM](https://telegram.me/DBTeam)
 
@@ -67,7 +72,7 @@ $ sudo stop telegram # To stop it
 
 -------------------
 
-   Sudo :
+  <I> Sudo :</I>
 
 <B>[س.مرتضی](https://telegram.me/black_hat_admin02) ([@SuperDeveloper] (https://telegram.me/SuperDeveloper))
 
@@ -76,10 +81,11 @@ $ sudo stop telegram # To stop it
 
 -------------------
 
-   Channel :
+  <I> Channel :</I>
    
  <B> [@BlackHatchannel](https://telegram.me/BlackHatchannel)</B>
    
 -------------------
-
- :-D
+<B>
+ <I>:-D<I>
+</B>
