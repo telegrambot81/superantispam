@@ -266,6 +266,13 @@ function create_config( )
       "left_grouo"
       "linkpv"
       "time"
+"anti_chat"
+"anti_fosh"
+"boobs"
+"filterworld"
+"tosuper"
+"QR_Code"
+
      },
     sudo_users = {219508236},
     admin_users = {},
