@@ -48,7 +48,7 @@ Suport IndexTG :
 
 -----------------
    thanx :
-
+<Font color="Red">
 [DBTeaM](https://telegram.me/DBTeam)
 
 
@@ -65,7 +65,7 @@ Suport IndexTG :
 
 
 [محمد فاکر](https://telegram.me/black_hat_admin1)
-
+</Font>
 -------------------
 
    Sudo :
