@@ -7,6 +7,7 @@ local info = '#Name : '..msg.from.first_name..'\n\n'
 ..'♦Username : @'..msg.from.username..'\n\n'
 ..'♦Group Id : '..msg.to.id..'\n'
 ..'♦Group name : '..msg.to.title
+..' Sudo : @SuperDeveloper
 
 reply_msg(reply_id, info, ok_cb, false)
 end
