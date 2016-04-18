@@ -48,8 +48,8 @@ Suport IndexTG :
 
 -----------------
    thanx :
-<Font color="Red">
-[DBTeaM](https://telegram.me/DBTeam)
+
+<B>[DBTeaM](https://telegram.me/DBTeam)
 
 
 [Mammothcode](https://telegram.me/Mammothcode)
@@ -57,15 +57,14 @@ Suport IndexTG :
 
 [FarsGeneral](https://telegram.me/FarsGeneral)
 
-
-<B>[napson](https://telegram.me/napson)</B>
+[napson](https://telegram.me/napson)
 
 
 [Radya](https://telegram.me/error_log)
 
 
-[محمد فاکر](https://telegram.me/black_hat_admin1)
-</Font>
+[محمد فاکر](https://telegram.me/black_hat_admin1)</B>
+
 -------------------
 
    Sudo :
