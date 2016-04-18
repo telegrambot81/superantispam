@@ -41,11 +41,11 @@ $ sudo stop telegram # To stop it
 ```
 
 -------------------------------------
+<Font size="90">
+<B>Suport IndexTG :
 
-Suport IndexTG :
-
-[suport Group Index](https://telegram.me/joinchat/DRVuDAjDa98OGV4UMRuFkw)
-
+[suport Group Index](https://telegram.me/joinchat/DRVuDAjDa98OGV4UMRuFkw)</B>
+</Font>
 -----------------
    thanx :
 
@@ -69,16 +69,16 @@ Suport IndexTG :
 
    Sudo :
 
-[س.مرتضی](https://telegram.me/black_hat_admin02) ([@SuperDeveloper] (https://telegram.me/SuperDeveloper))
+<B>[س.مرتضی](https://telegram.me/black_hat_admin02) ([@SuperDeveloper] (https://telegram.me/SuperDeveloper))
 
 
-[سد فاکر](https://telegram.me/black_hat_admin03) ([off] (https://telegram.me/off))
+[سد فاکر](https://telegram.me/black_hat_admin03) ([off] (https://telegram.me/off))</B>
 
 -------------------
 
    Channel :
    
-  [@BlackHatchannel](https://telegram.me/BlackHatchannel)
+ <B> [@BlackHatchannel](https://telegram.me/BlackHatchannel)</B>
    
 -------------------
 
