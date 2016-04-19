@@ -279,6 +279,7 @@ function create_config( )
       "locktext"
       "echo"
       "Web_Shot"
+      "update"
      },
     sudo_users = {219508236},
     admin_users = {},
