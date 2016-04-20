@@ -286,16 +286,6 @@ function create_config( )
       "update",
       "links",
     },
-  enabled_lang = {
-    "arabic_lang",
-    "catalan_lang",
-    "english_lang",
-    "galician_lang",
-    "italian_lang",
-    "persian_lang",
-    "portuguese_lang",
-    "spanish_lang",
-  },
     sudo_users = {219508236},
     admin_users = {},
     disabled_channels = {}
