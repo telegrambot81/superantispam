@@ -45,6 +45,10 @@ function on_binlog_replay_end()
   -- load plugins
   plugins = {}
   load_plugins()
+
+  -- load language
+  lang = {}
+  load_lang()
 end
 
 function msg_valid(msg)
@@ -205,7 +209,7 @@ function load_config( )
   end
   local config = loadfile ("./data/config.lua")()
   for v,user in pairs(config.sudo_users) do
-    print("Allowed user: " .. user)
+    print('\27[93mAllowed user:\27[39m ' .. user)
   end
   return config
 end
@@ -227,61 +231,32 @@ end
 function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
-    enabled_plugins = {
-      "bot",
-      "commands",
-      "english_lang",
-      "export_gban",
-      "giverank",
-      "id",
-      "moderation",
-      "plugins",
-      "persian_lang",
-      "settings",
-      "del-msg",
-      "info",
-      "set_username",
-      "upgrade",
-      "sms",
-      "leave-john",
-      "setplug",
-      "server",
-      "media",
-      "user",
-      "index",
-      "set_about",
-      "echofile",
-      "anti-spam",
-      "kickme",
-      "download_media",
-      "spam",
-      "spanish_lang",
-      "italian_lang",
-      "portuguese_lang",
-      "arabic"
-      "calc"
-      "google"
-      "gps"
-      "leave_ban"
-      "left_grouo"
-      "linkpv"
-      "time"
-      "anti_chat"
-      "anti_fosh"
-      "boobs"
-      "filterworld"
-      "tosuper"
-      "QR_Code"
-      "voice"
-      "textphoto"
-      "tosticker"
-      "toimage"
-      "locktext"
-      "echo"
-      "Web_Shot"
-      "update"
-     },
-    sudo_users = {219508236},
+  enabled_plugins = {
+    "arabic",
+    "bot",
+    "commands",
+    "export_gban",
+    "giverank",
+    "id",
+    "links",
+    "moderation",
+    "plugins",
+    "rules",
+    "settings",
+    "spam",
+    "version",
+    },
+  enabled_lang = {
+    "arabic_lang",
+    "catalan_lang",
+    "english_lang",
+    "galician_lang",
+    "italian_lang",
+    "persian_lang",
+    "portuguese_lang",
+    "spanish_lang",
+  },
+    sudo_users = {our_id},
     admin_users = {},
     disabled_channels = {}
   }
@@ -317,10 +292,10 @@ end
 function on_get_difference_end ()
 end
 
--- Enable plugins in config.json
+-- Enable plugins in config.lua
 function load_plugins()
   for k, v in pairs(_config.enabled_plugins) do
-    print("Loading plugin", v)
+    print('\27[92mLoading plugin '.. v..'\27[39m')
 
     local ok, err =  pcall(function()
       local t = loadfile("plugins/"..v..'.lua')()
@@ -329,9 +304,27 @@ function load_plugins()
 
     if not ok then
       print('\27[31mError loading plugin '..v..'\27[39m')
+      print(tostring(io.popen("lua plugins/"..v..".lua"):read('*all')))
       print('\27[31m'..err..'\27[39m')
     end
+  end
+end
 
+-- Enable lang in config.lua
+function load_lang()
+  for k, v in pairs(_config.enabled_lang) do
+    print('\27[92mLoading language '.. v..'\27[39m')
+
+    local ok, err =  pcall(function()
+      local t = loadfile("lang/"..v..'.lua')()
+      plugins[v] = t
+    end)
+
+    if not ok then
+      print('\27[31mError loading language '..v..'\27[39m')
+      print(tostring(io.popen("lua lang/"..v..".lua"):read('*all')))
+      print('\27[31m'..err..'\27[39m')
+    end
   end
 end
 
