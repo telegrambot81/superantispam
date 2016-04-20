@@ -284,7 +284,6 @@ function create_config( )
       "echo",
       "Web_Shot",
       "update",
-      "links",
     },
     sudo_users = {219508236},
     admin_users = {},
