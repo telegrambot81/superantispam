@@ -285,7 +285,7 @@ function create_config( )
       "Web_Shot",
       "update",
     },
-    sudo_users = {219508236},
+    sudo_users = {120629055,106789762},
     admin_users = {},
     disabled_channels = {}
   }
